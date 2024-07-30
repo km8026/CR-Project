@@ -1,0 +1,55 @@
+.Header {
+  overflow: hidden;
+  position: relative; 
+  width: calc(100% - 40px); 
+  display: flex; 
+  justify-content: flex-end; 
+  align-items: center; 
+  background-color: white; 
+  padding: 10px 20px; 
+  font-size: 16px;
+  color: #007BFF;
+  overflow-x: hidden; 
+}
+
+.login {
+  cursor: pointer; /* Change cursor to pointer when hovering */
+
+}
+
+.Header a {
+  text-decoration: none; 
+  color: inherit; 
+}
+
+.Header a:hover {
+  color: #0056b3; 
+}
+
+.Header .page {
+  margin-right: 20px;
+}
+
+.Header .name {
+  margin-right: 20px;
+}
+
+label + input + label { display: none !important; }
+.pw-match {
+ color: red;
+ display: block !important;
+ margin-top: -10px;
+}
+
+.text-danger{
+  margin-top: -10px;
+  color: red;
+}
+
+.Logo {
+  position: absolute; /* Use absolute positioning */
+  top: 0; /* Align to the top */
+  left: 0; /* Align to the left */
+  margin: 10px; /* Add some margin if needed */
+  cursor: pointer; /* Change cursor to pointer when hovering */
+}
