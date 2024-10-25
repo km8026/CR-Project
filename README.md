@@ -76,6 +76,6 @@
 ## 💁‍♂️ 프로젝트 팀원
 | Backend | Frontend | Frontend | Frontend |
 |:---:|:---:|:---:|:---:|
-| ![](https://github.com/jeauk.png?size=120) | ![](https://github.com/loteim.png?size=120)  | ![](https://github.com/kimhuigon.png?size=120) | ![](https://github.com/LSG20240516.png?size=120) | ![](https://github.com/l0cyp.png?size=120) |
+| ![](https://github.com/jeauk.png?size=120) | ![](https://github.com/loteim.png?size=120)  | ![](https://github.com/km8026.png?size=120) | ![](https://github.com/LSG20240516.png?size=120) | ![](https://github.com/l0cyp.png?size=120) |
 | [황재욱](https://github.com/jeauk) | [서성우](https://github.com/loteim) | [김민준](https://github.com/km8026) | [이금주](https://github.com/l0cyp) |
 
